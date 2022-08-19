@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Riku",
+      "hobby": "jalan",
+      "id": 1
+    },
+    {
+      "name": "Rasi",
+      "hobby": "game",
+      "id": 2
+    },
+    {
+      "name": "Reza",
+      "hobby": "makan",
+      "id": 3
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "minyak goreng",
+      "type": "groceries",
+      "price": 15000,
+      "stock": 5
+    }
+  ]
+}
